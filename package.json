@@ -22,10 +22,13 @@
     "angular",
     "typescript"
   ],
-  "author": "Alexandros Solanos",
+  "author": "Alexandros Solanos <github.com/hytromo>",
+  "maintainers": [
+    "rconjoe <github.com/rconjoe>"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hytromo/nx-s3-cache/issues"
+    "url": "https://github.com/rconjoe/nx-s3-cache/issues"
   },
   "homepage": "https://github.com/hytromo/nx-s3-cache#readme",
   "devDependencies": {
@@ -47,6 +50,6 @@
     "dotenv": "16.3.1"
   },
   "peerDependencies": {
-    "@nx/workspace": "~15.3.3"
+    "@nx/workspace": "~16.4.0"
   }
 }
