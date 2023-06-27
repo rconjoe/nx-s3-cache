@@ -1,4 +1,11 @@
-import { green, grey, red, yellow } from "chalk";
+// import { green, grey, red, yellow } from "chalk";
+
+// I have not the slightest clue:
+import green from "chalk";
+import yellow from "chalk";
+import red from "chalk";
+import grey from "chalk";
+
 import path from "path";
 import { RemoteCacheImplementation } from "./types/remote-cache-implementation";
 
