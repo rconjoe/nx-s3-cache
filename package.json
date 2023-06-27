@@ -1,6 +1,6 @@
 {
   "name": "@rconjoe/nx-s3-cache",
-  "version": "0.0.4-rcj",
+  "version": "0.0.5-rcj",
   "description": "Nx s3 cache using GNU tar and multipart s3 uploads/downloads. Fork of @hytromo/nx-s3-cache maintained by @rconjoe.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
