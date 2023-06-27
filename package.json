@@ -1,7 +1,7 @@
 {
-  "name": "@hytromo/nx-s3-cache",
+  "name": "@rconjoe/nx-s3-cache",
   "version": "0.0.2",
-  "description": "Nx s3 cache using GNU tar and multipart s3 uploads/downloads",
+  "description": "Nx s3 cache using GNU tar and multipart s3 uploads/downloads. Fork of @hytromo/nx-s3-cache maintained by @rconjoe.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hytromo/nx-s3-cache.git"
+    "url": "git+https://github.com/rconjoe/nx-s3-cache.git"
   },
   "keywords": [
     "nx",
