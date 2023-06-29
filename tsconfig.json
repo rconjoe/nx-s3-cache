@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "es2019",
+    "target": "es2021",
     "module": "commonjs",
     "strict": true,
     "noUnusedLocals": true,
@@ -11,5 +11,6 @@
     "outDir": "dist",
     "declaration": true
   },
-  "include": ["lib/**.ts"]
+  "include": ["lib/**.ts"],
+  "exclude": ["node_modules", "dist"]
 }

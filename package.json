@@ -1,11 +1,11 @@
 {
   "name": "@rconjoe/nx-s3-cache",
-  "version": "0.0.15-rcj",
+  "version": "0.0.16-rcj",
   "description": "Nx s3 cache using GNU tar and multipart s3 uploads/downloads. Fork of @hytromo/nx-s3-cache maintained by @rconjoe.",
-  "main": "index.js",
-  "typings": "index.d.ts",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
   "files": [
-    "."
+    "./dist/"
   ],
   "scripts": {
     "build": "rm -rf dist && tsc && cp package.json dist/package.json && cp README.md dist/README.md && cp CHANGELOG.md dist/CHANGELOG.md"
